@@ -2,3 +2,9 @@
 ## Flow over aircraft wing using rhoEnergyFoam
 + Download the mesh file from the link and put it in the constant/polyMesh folder
 [Meshfile](https://mega.nz/folder/EKEm3b5R#mGdxXxLcFOaUdnih2wxAtw)
+
++ Get the solver from:-
+
+```
+https://github.com/Ale22pic/rhoEnergyFoam
+```
